@@ -7,11 +7,6 @@ package com.zzl.baby.service.interfaces.user;
  * <p>
  * Description: 用户业务层相关接口
  * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
- * </p>  
  * <p>
  * Create Time: 上午11:08:00
  * @version 1.0

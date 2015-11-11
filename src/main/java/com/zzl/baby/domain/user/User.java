@@ -6,11 +6,6 @@ package com.zzl.baby.domain.user;
  * <p>
  * <p>
  * Description: 用户数据模型
- * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
  * </p>  
  * <p>
  * Create Time: 上午11:22:48

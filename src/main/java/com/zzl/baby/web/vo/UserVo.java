@@ -6,11 +6,6 @@ package com.zzl.baby.web.vo;
  * <p>
  * <p>
  * Description: 用户业务模型
- * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
  * </p>  
  * <p>
  * Create Time: 上午11:22:48
@@ -21,7 +16,6 @@ public class UserVo {
     private Long id;
     
     private String username;
-    
     private String password;
 
     public Long getId() {

@@ -23,11 +23,6 @@ import com.zzl.baby.service.interfaces.user.IUserService;
  * <p>
  * Description: 用户业务层实现类
  * </p>
- * Author: servyou10
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
- * </p>  
  * <p>
  * Create Time: 上午11:14:14
  * @version 1.0

@@ -7,10 +7,6 @@ package com.zzl.baby.common.consts;
  * <p>
  * Description: 状态码常量
  * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
  * </p>  
  * <p>
  * Create Time: 下午1:10:05

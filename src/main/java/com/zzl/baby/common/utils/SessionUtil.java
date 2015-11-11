@@ -12,10 +12,6 @@ import net.sf.json.JSONObject;
  * <p>
  * Description: 处理session的工具类
  * </p>
- * Author: servyou10
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
  * </p>  
  * <p>
  * Create Time: 下午1:57:59

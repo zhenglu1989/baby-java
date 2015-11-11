@@ -14,11 +14,6 @@ import net.sf.json.JSONObject;
  * <p>
  * Description: 处理json的工具类
  * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
- * </p>  
  * <p>
  * Create Time: 下午1:13:48
  * @version 1.0

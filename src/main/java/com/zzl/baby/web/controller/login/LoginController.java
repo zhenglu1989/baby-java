@@ -26,11 +26,6 @@ import com.zzl.baby.web.vo.UserVo;
  * <p>
  * Description: 登录、注册的web接口
  * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
- * </p>  
  * <p>
  * Create Time: 上午10:39:23
  * @version 1.0

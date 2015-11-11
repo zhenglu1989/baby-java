@@ -16,11 +16,6 @@ import com.zzl.baby.repository.interfaces.user.IUserRepository;
  * <p>
  * <p>
  * Description: 用户数据库接口实现类
- * </p>
- * Author: zzl
- * </p>
- * <p>
- * Copyright: 浙江龙山税友软件股份有限公司
  * </p>  
  * <p>
  * Create Time: 上午11:29:40
